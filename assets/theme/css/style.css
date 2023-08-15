@@ -1005,3 +1005,11 @@ p {
 b {
   font-weight: bold;
 }
+.footer1{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+}
