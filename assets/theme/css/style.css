@@ -1013,3 +1013,17 @@ b {
   color: #fff;
   text-align: center;
 }
+.Verse{
+color: rgb(86, 168, 86);
+}
+.contact{
+  text-decoration: underline;
+  color: #000000;
+
+}
+.contact:hover{
+  color: #000;
+}
+.mecha{
+  font-size:2rem;
+}
