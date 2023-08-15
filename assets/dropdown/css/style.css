@@ -262,4 +262,15 @@
 .is-builder .nav-dropdown.collapsing {
   transition: none !important; }
 
+  .carousal_size{
+     display: block;
+    width:640px;
+   height:360px;
+   margin: auto;
+  }
+
+  .color{
+    /* color: black; */
+    font-weight: 900;
+  }
 
