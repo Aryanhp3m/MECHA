@@ -881,6 +881,12 @@ blockquote {
   margin-bottom: 2rem !important;
 }
 
+
+.img-wrap{
+  height: 200px;
+  width: 200px;
+}
+
 @media (min-width: 992px) {
   .container {
     padding-left: 16px;
